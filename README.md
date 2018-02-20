@@ -18,9 +18,9 @@ In this assignment I used VBA scripting to analyze stock market data from 2012 t
 
     * The stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
 
-*(positive changes in green and negative changes in red)
+*(positive changes in green and negative changes in red)*
 
-The script was written to allow it to run on every worksheet just by running it once.*
+*The script was written to allow it to run on every worksheet just by running it once.*
 
 ### See analysis output screen captures by year below:
 
